@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./linkedin.svg" alt="LinkedIn" height="50" width="50" />
   </a>

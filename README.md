@@ -1,18 +1,8 @@
-<div align="center">
-  <div><img src="./bird.gif" width="250px" /></div>
-  <div>Hi there , I'm Mitra Khorshidi👋</div>
-</div>
+# <picture><img src="./bird.gif" height="100px" /></picture> ***Hi there 👋, I'm Mitra Khorshidi***
 
-<p >
- <span height='150px'></span>
- <span></span>
-</p>
+#### 👩‍💻 Front-End Developer &ndash; UI Designer | 🎓 B.S in Computer Engineering | Munich
 
-<h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
-<h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>
-
-
 
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">

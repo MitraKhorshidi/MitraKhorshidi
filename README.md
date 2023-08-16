@@ -3,7 +3,7 @@
   <img align="left" src="./bird.gif" width="100" height="100"/>
   <h1 align ="center"> Hi there , I'm Mitra Khorshidi👋</h1>
 </div> -->
-<picture><img src = "./bird.gif" width = 100px></picture> ## Hi there , I'm Mitra Khorshidi👋 
+### <picture><img src = "./bird.gif" width = 100px></picture> Hi there , I'm Mitra Khorshidi👋 
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>

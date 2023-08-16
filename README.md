@@ -16,7 +16,7 @@
     <img align="center" src="./xing.svg" alt="Xing" height="50" width="50" />
   </a>
   <a href="https://dribbble.com/imitra" target="blank">
-    <img align="center" src="./dribbble.svg" alt="Dribbble" height="30" width="40" />
+    <img align="center" src="./dribbble.svg" alt="Dribbble" height="50" width="50" />
   </a>
   <a href="https://instagram.com/imitra.ir" target="blank">
     <img align="center" src="./instagram.svg" alt="Instagram" height="50" width="50" />

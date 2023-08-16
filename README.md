@@ -1,7 +1,7 @@
 
 <div align="center">
   <img align="left" src="./bird.gif" />
-  <h1> Hi there , I'm Mitra Khorshidi👋</h1>
+  <h1 align ="right"> Hi there , I'm Mitra Khorshidi👋</h1>
 </div>
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>

@@ -1,9 +1,16 @@
 
-<!-- <div align="center">
-  <img align="left" src="./bird.gif" width="100" height="100"/>
-  <h1 align ="center"> Hi there , I'm Mitra Khorshidi👋</h1>
-</div> -->
-### <picture><img src = "./bird.gif" width ="150px"></picture> Hi there , I'm Mitra Khorshidi👋 
+<table>
+  <tr>
+    <td>
+      <picture>
+        <img src="./bird.gif" width="150px" />
+      </picture>
+    </td>
+    <td>
+      <span>Hi there , I'm Mitra Khorshidi👋</span>
+    </td>
+  </tr>
+  </table>
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>

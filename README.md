@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align="left" src="./bird.gif" width="80" height="70"/>
+  <img align="left" src="./bird.gif" width="100" height="100"/>
   <h1 align ="center"> Hi there , I'm Mitra Khorshidi👋</h1>
 </div>
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
@@ -32,4 +32,4 @@
     <img align="center" src="./instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
 </p>
-  <img align="right" src="./flower.gif" width="80" height="70"/>
+  <img align="right" src="./flower.gif" width="100" height="100"/>

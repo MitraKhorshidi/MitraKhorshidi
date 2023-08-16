@@ -5,7 +5,7 @@
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,github,xd,figma,wordpress&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,github,xd,figma,wordpress" />
   </a>
 </p>
 

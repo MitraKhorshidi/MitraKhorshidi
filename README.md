@@ -5,7 +5,7 @@
 <h2 align="center"> Technologies : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,github,xd,,figmawordpress,vscode,vercel,java,dart,flutter,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,github,xd,figma,wordpress,vscode,vercel,java,dart,flutter,cloudflare" />
   </a>
 </p>
 

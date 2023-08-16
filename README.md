@@ -9,16 +9,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mitrakh" target="blank">
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./linkedin.svg" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://www.xing.com/profile/Mitra_Khorshidi/cv" target="blank">
+  <a href="https://www.xing.com/profile/Mitra_Khorshidi/cv" target="_blank">
     <img align="center" src="./xing.svg" alt="Xing" height="50" width="50" />
   </a>
-  <a href="https://dribbble.com/imitra" target="blank">
+  <a href="https://www.imitra.ir" target="_blank">
+    <img align="center" src="./portfolio.svg" alt="Portfolio" height="50" width="50" />
+  </a>
+  <a href="https://dribbble.com/imitra" target="_blank">
     <img align="center" src="./dribbble.svg" alt="Dribbble" height="50" width="50" />
   </a>
-  <a href="https://instagram.com/imitra.ir" target="blank">
+  <a href="https://instagram.com/imitra.ir" target="_blank">
     <img align="center" src="./instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
 </p>

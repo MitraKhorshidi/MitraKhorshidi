@@ -1,13 +1,12 @@
 
 <div align="center">
-  <video autoplay src="./bird.mp4" type="video/mp4"></video>
+  <img autoplay src="./flower.gif" />
   <h1> Hi there , I'm Mitra Khorshidi👋</h1>
 </div>
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>
 
-https://github.com/MitraKhorshidi/MitraKhorshidi/assets/79627561/a96ee85a-1866-47d9-9fea-a7077275964b
 
 
 <h3 align="left"> Technologies That I Know : </h3>

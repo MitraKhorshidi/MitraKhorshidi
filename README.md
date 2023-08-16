@@ -9,8 +9,6 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,git,bootstrap,c,figma,firebase,github,html,java,mongodb,mysql,vscode&perline=14" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
   

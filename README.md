@@ -1,4 +1,5 @@
-<h1 align="center">Hi there , I'm Mitra Khorshidi👋</h1>
+<img align="left" src="./bird.mp4" alt="Hi" width="200" height="130"/>
+### Hi there , I'm Mitra Khorshidi👋
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>
@@ -8,7 +9,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./linkedin.svg" alt="LinkedIn" height="50" width="50" />
   </a>

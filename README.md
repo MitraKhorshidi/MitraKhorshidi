@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align="left" src="./bird.mp4" alt="Hi" width="200" height="130"/>
+  <video autoplay src="./bird.mp4" type="video/mp4"></video>
   <h1> Hi there , I'm Mitra Khorshidi👋</h1>
 </div>
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>

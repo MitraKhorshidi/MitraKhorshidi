@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align="left" src="./bird.gif" width="150" height="100"/>
+  <img align="left" src="./bird.gif" width="100" height="100"/>
   <h1 align ="center"> Hi there , I'm Mitra Khorshidi👋</h1>
 </div>
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>

@@ -6,6 +6,10 @@
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>
+
+https://github.com/MitraKhorshidi/MitraKhorshidi/assets/79627561/a96ee85a-1866-47d9-9fea-a7077275964b
+
+
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,github,xd,figma,wordpress" />

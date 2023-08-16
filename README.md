@@ -1,16 +1,13 @@
+<div align="center">
+  <div><img src="./bird.gif" width="250px" /></div>
+  <div>Hi there , I'm Mitra Khorshidi👋</div>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <img src="./bird.gif" width="150px" />
-      </picture>
-    </td>
-    <td>
-      <span>Hi there , I'm Mitra Khorshidi👋</span>
-    </td>
-  </tr>
-  </table>
+<p >
+ <span height='150px'></span>
+ <span></span>
+</p>
+
 <h3 align="center">👩‍💻 Front-End Developer & UI Designer</h3>
 <h3 align="center"> 🎓 B.S in Computer Engineering</h3>
 <br/>

@@ -7,7 +7,49 @@
 
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,xd,figma,wordpress" />
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/nextjs.svg" alt="next.js" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/react.svg" alt="react" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/javascript.svg" alt="javascript" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/typescript.svg" alt="typescript" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/tailwindcss.svg" alt="tailwind.css" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/css.svg" alt="css" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/html.svg" alt="html" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/mysql.svg" alt="mysql" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/mongodb.svg" alt="mongodb" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/github.svg" alt="github" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/adobe.svg" alt="adobe" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/figma.svg" alt="figma" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/wordpress.svg" alt="wordpress" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/elementor.svg" alt="elementor" height="50" width="50" />
+  </a>
+
 </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -69,5 +69,8 @@
     <img align="center" src="./icons/instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
 </p>
+<br/>
+<br/>
+<br/>
 
   <img align="right" src="./gifs/flower.gif" width="130" height="130"/>

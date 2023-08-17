@@ -7,49 +7,48 @@
 
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
     <img align="center" src="./icons/nextjs.svg" alt="next.js" height="60" width="60" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://react.dev/" target="_blank">
     <img align="center" src="./icons/react.svg" alt="react" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
     <img align="center" src="./icons/css.svg" alt="css" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <img align="center" src="./icons/html.svg" alt="html" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank">
     <img align="center" src="./icons/javascript.svg" alt="javascript" height="55" width="55" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img align="center" src="./icons/typescript.svg" alt="typescript" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img align="center" src="./icons/tailwindcss.svg" alt="tailwind.css" height="55" width="55" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank">
     <img align="center" src="./icons/mysql.svg" alt="mysql" height="55" width="55" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" src="./icons/mongodb.svg" alt="mongodb" height="60" width="60" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img align="center" src="./icons/github.svg" alt="github" height="55" width="55" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://adobexdplatform.com/" target="_blank">
     <img align="center" src="./icons/adobe.svg" alt="adobe" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://www.figma.com/" target="_blank">
     <img align="center" src="./icons/figma.svg" alt="figma" height="55" width="55" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://wordpress.com" target="_blank">
     <img align="center" src="./icons/wordpress.svg" alt="wordpress" height="50" width="50" />
   </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+  <a href="https://elementor.com/" target="_blank">
     <img align="center" src="./icons/elementor.svg" alt="elementor" height="50" width="50" />
   </a>
-
 </p>
 
 <h3 align="left">Connect with me:</h3>

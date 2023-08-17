@@ -8,7 +8,7 @@
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/nextjs.svg" alt="next.js" height="50" width="50" />
+    <img align="center" src="./icons/nextjs.svg" alt="next.js" height="60" width="60" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/react.svg" alt="react" height="50" width="50" />
@@ -20,29 +20,28 @@
     <img align="center" src="./icons/html.svg" alt="html" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/javascript.svg" alt="javascript" height="50" width="50" />
+    <img align="center" src="./icons/javascript.svg" alt="javascript" height="55" width="55" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/typescript.svg" alt="typescript" height="40" width="40" />
+    <img align="center" src="./icons/typescript.svg" alt="typescript" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/tailwindcss.svg" alt="tailwind.css" height="50" width="50" />
+    <img align="center" src="./icons/tailwindcss.svg" alt="tailwind.css" height="55" width="55" />
   </a>
-  
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/mysql.svg" alt="mysql" height="50" width="50" />
+    <img align="center" src="./icons/mysql.svg" alt="mysql" height="55" width="55" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/mongodb.svg" alt="mongodb" height="60" width="60" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/github.svg" alt="github" height="50" width="50" />
+    <img align="center" src="./icons/github.svg" alt="github" height="55" width="55" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/adobe.svg" alt="adobe" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/figma.svg" alt="figma" height="50" width="50" />
+    <img align="center" src="./icons/figma.svg" alt="figma" height="55" width="55" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/wordpress.svg" alt="wordpress" height="50" width="50" />

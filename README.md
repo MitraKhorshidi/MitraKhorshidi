@@ -33,7 +33,7 @@
     <img align="center" src="./icons/mysql.svg" alt="mysql" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/mongodb.svg" alt="mongodb" height="50" width="50" />
+    <img align="center" src="./icons/mongodb.svg" alt="mongodb" height="60" width="60" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/github.svg" alt="github" height="50" width="50" />

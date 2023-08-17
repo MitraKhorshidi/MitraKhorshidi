@@ -14,20 +14,21 @@
     <img align="center" src="./icons/react.svg" alt="react" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/javascript.svg" alt="javascript" height="50" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/typescript.svg" alt="typescript" height="50" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./icons/tailwindcss.svg" alt="tailwind.css" height="50" width="50" />
-  </a>
-  <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/css.svg" alt="css" height="50" width="50" />
   </a>
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/html.svg" alt="html" height="50" width="50" />
   </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/javascript.svg" alt="javascript" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/typescript.svg" alt="typescript" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/mitrakh" target="_blank">
+    <img align="center" src="./icons/tailwindcss.svg" alt="tailwind.css" height="50" width="50" />
+  </a>
+  
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
     <img align="center" src="./icons/mysql.svg" alt="mysql" height="50" width="50" />
   </a>

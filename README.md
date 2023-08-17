@@ -7,7 +7,7 @@
 
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,github,xd,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,css,html,mysql,mongodb,git,xd,figma,wordpress" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

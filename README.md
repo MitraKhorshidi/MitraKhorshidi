@@ -1,4 +1,4 @@
-<div align="center"><img  src="./bird.gif" width="200px" /></div>
+<div align="center"><img  src="./gifs/bird.gif" width="200px" /></div>
 <h1 align="center"><strong>Hi there 👋, I'm Mitra</strong></h1>
 <h3 align="center">👩‍💻 Front-End Developer &ndash; UI Designer</h3>
 <h3 align="center">🎓 B.S in Computer Engineering </h3>
@@ -13,19 +13,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mitrakh" target="_blank">
-    <img align="center" src="./linkedin.svg" alt="LinkedIn" height="50" width="50" />
+    <img align="center" src="./icons/linkedin.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="https://www.xing.com/profile/Mitra_Khorshidi/cv" target="_blank">
-    <img align="center" src="./xing.svg" alt="Xing" height="50" width="50" />
+    <img align="center" src="./icons/xing.svg" alt="Xing" height="50" width="50" />
   </a>
   <a href="https://www.imitra.ir" target="_blank">
-    <img align="center" src="./portfolio.svg" alt="Portfolio" height="50" width="50" />
+    <img align="center" src="./icons/portfolio.svg" alt="Portfolio" height="50" width="50" />
   </a>
   <a href="https://dribbble.com/imitra" target="_blank">
-    <img align="center" src="./dribbble.svg" alt="Dribbble" height="50" width="50" />
+    <img align="center" src="./icons/dribbble.svg" alt="Dribbble" height="50" width="50" />
   </a>
   <a href="https://instagram.com/imitra.ir" target="_blank">
-    <img align="center" src="./instagram.svg" alt="Instagram" height="50" width="50" />
+    <img align="center" src="./icons/instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
 </p>
-  <img align="right" src="./flower.gif" width="100" height="100"/>
+  <img align="right" src="./gifs/flower.gif" width="100" height="100"/>

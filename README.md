@@ -7,7 +7,7 @@
 
 <h3 align="left"> Technologies That I Know : </h3>
 <p align="center">
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="blank">
     <img align="center" src="./icons/nextjs.svg" alt="next.js" height="60" width="60" />
   </a>
   <a href="https://react.dev/" target="_blank">
